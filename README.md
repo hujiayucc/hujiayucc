@@ -8,6 +8,10 @@
   <img src="https://stats.deeptrain.net/user/hujiayucc?theme=light" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hujiayucc&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+</div>
+
 ### <div align="center"> 我使用的IDE/文本编辑器 </div>
 
 <div align="center">
