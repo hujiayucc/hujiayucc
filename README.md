@@ -5,17 +5,7 @@
 ### <div align="center"> GitHub 语言统计 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujiayucc&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-
-### <div align="center"> 我使用的开发语言 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-1.9.0-green?style=for-the-badge&logo=kotlin" />
-  <img src="https://img.shields.io/badge/Java-21-purple?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/C++-20-pink?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Python-3-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/PHP-7-blue?style=for-the-badge&logo=php" />
+  <img src="https://stats.deeptrain.net/user/hujiayucc?theme=light" />
 </div>
 
 ### <div align="center"> 我使用的IDE/文本编辑器 </div>
