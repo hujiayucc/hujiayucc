@@ -2,8 +2,6 @@
 
 <div align="center"> 欢迎来到我的GitHub 主页 </div>
 
-### <div align="center"> GitHub 语言统计 </div>
-
 <div align="center">
   <img src="https://stats.deeptrain.net/user/hujiayucc?theme=light" />
 </div>
