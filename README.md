@@ -3,7 +3,7 @@
 <div align="center"> 欢迎来到我的GitHub 主页，我是一个全栈选手 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujiayucc&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujiayucc&layout=compact&hide_border=true&langs_count=100" />
 </div>
 
 <div align="center">
